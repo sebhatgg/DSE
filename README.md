@@ -42,7 +42,7 @@ Prerequisites
 
 ### Setup
 To set up the project environment:
-git clone  gh repo clone sebhatgg/DSE  https://github.com/sebhatgg/DSE
+git clone  gh repo clone https://github.com/sebhatgg/DSE
 
 ### Install the required packages:
 pip install -r requirements.txt
