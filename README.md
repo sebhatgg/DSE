@@ -1,4 +1,4 @@
-# DSE
+
 README for a dissertation titled ‘The Effect of Changing Sequences of Algorithms in Hybrid Anomaly Detection Methodology.’
 
 Overview
